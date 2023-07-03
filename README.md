@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @dimdimmm_
 - 👦 I'm Student of STMIK Amikom Surakarta. 
-- 👀 I’m interested in backend programming.
+- 👀 I’m interested in Frontend programming.
 
 
 ## How to reach me :

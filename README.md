@@ -1,21 +1,11 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am 
-                <b><a target="_blank" href="https://github.com/dimdimah">Dimah Luthfi</a></b>
+                <b><a target="_blank" href="https://github.com/dimdimah">Dimah Luthfi Aulia Rohman</a></b>
         </samp>
 </h3>
 
-## About me
-
-- 👋 Hi, I’m @dimdimmm_
-- 👦 I'm Student of STMIK Amikom Surakarta. 
-- 👀 I’m interested in Frontend web enginner.
-
-
-## How to reach me :
-- Instagram : [Instagram](https://www.instagram.com/dim.dimmm_/)
-
 # 💫 About Me:
-🌱 I’m currently learning Web Development and other programming languages<br><br>📫 How to reach me adampithewan@gmail.com<br><br>⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+Hello 👋! I'm an Informatic college student with a passion for all things front-end. 💻 Aspiring web developer, I'm on a journey to create visually stunning and user-friendly web experiences. My code is my canvas, and with HTML, CSS, and JavaScript as my brushes, I craft digital art that leaves a lasting impression. 🎨
 
 
 ## 🌐 Socials:
@@ -34,4 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dimdimah&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in )

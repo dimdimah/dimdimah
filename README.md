@@ -4,7 +4,7 @@
         </samp>
 </h3>
 
-# 💫 About Me:
+# About Me:
 Hello 👋! I'm an Informatic college student with a passion for all things front-end. 💻 Aspiring web developer, I'm on a journey to create visually stunning and user-friendly web experiences. My code is my canvas, and with HTML, CSS, and JavaScript as my brushes, I craft digital art that leaves a lasting impression. 🎨
 
 
@@ -18,7 +18,7 @@ Hello 👋! I'm an Informatic college student with a passion for all things fron
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dimdimah&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimdimah&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---

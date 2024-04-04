@@ -5,11 +5,11 @@
 </h3>
 
 # About Me:
-Hello 👋! I'm an Informatic college student with a passion for all things front-end. 💻 Aspiring web developer, I'm on a journey to create visually stunning and user-friendly web experiences. My code is my canvas, and with HTML, CSS, and JavaScript as my brushes, I craft digital art that leaves a lasting impression.
+I am Dimah Luthfi Aulia. I am currently pursuing my undergraduate education in the Informatics Study Programme at the private university STMIK AMIKOM Surakarta in 2021. I am interested in the world of technology, especially in the field of frontend developers and Product Management.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dim.dimmm_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimah-luthfi-aulia-rohman) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dim.dimmm_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/dimah-luthfi-aulia-rohman](https://www.linkedin.com/in/dimah-luthfi-8a7235219/)) 
 
 ## 🛠️ Languages and Tools
 <div align="center"> 

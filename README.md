@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, name is Dimah Luthfi A, Glad to see ya</h3>
+<h3 align="left">Hi 👋, I'm Dimah Luthfi A, Glad to see ya</h3>
 <div align="center">
   <img src="https://i.imgur.com/8yktfID.jpeg" width="600em"/>
   <div>
